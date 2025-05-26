@@ -1,0 +1,1 @@
+Here's a crash course to deep dive in fMRI-based functional connectivity analysis. Data to run with the notebooks are available under request. 
