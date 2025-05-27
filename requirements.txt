@@ -1,0 +1,12 @@
+nilearn
+nibabel
+numpy
+pandas
+matplotlib
+scipy
+tqdm
+nitime
+scikit-learn
+pycirclize
+networkx
+python-louvain
