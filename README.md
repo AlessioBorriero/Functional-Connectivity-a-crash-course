@@ -35,14 +35,13 @@ Functional-Connectivity-a-crash-course/
 ### Installation
 
 1. Clone the repository:
+
    git clone https://github.com/AlessioBorriero/Functional-Connectivity-a-crash-course.git
    cd Functional-Connectivity-a-crash-course
 
 2. Install dependencies:
 
-   ```bash
    pip install -r requirements.txt
-   ```
 
 ## Data
 
