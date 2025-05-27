@@ -35,10 +35,8 @@ Functional-Connectivity-a-crash-course/
 ### Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/AlessioBorriero/Functional-Connectivity-a-crash-course.git
    cd Functional-Connectivity-a-crash-course
-````
 
 2. Install dependencies:
 
