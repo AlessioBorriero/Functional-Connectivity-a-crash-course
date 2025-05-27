@@ -36,7 +36,7 @@ Functional-Connectivity-a-crash-course/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Functional-Connectivity-a-crash-course.git
+   git clone https://github.com/AlessioBorriero/Functional-Connectivity-a-crash-course.git
    cd Functional-Connectivity-a-crash-course
 ````
 
@@ -68,4 +68,4 @@ Contributions are welcome! Please fork the repo and submit a pull request. For m
 
 Alessio Borriero – [alessio.borriero@unito.it](mailto:alessio.borriero@unito.it)
 
-Project Link: [https://github.com/your-username/Functional-Connectivity-a-crash-course](https://github.com/your-username/Functional-Connectivity-a-crash-course)
+Project Link: [https://github.com/AlessioBorriero/Functional-Connectivity-a-crash-course](https://github.com/AlessioBorriero/Functional-Connectivity-a-crash-course)
